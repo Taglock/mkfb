@@ -17781,7 +17781,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.TiledBg,
 	cr.plugins_.TextBox,
 	cr.system_object.prototype.cnds.OnLayoutStart,
-	cr.plugins_.AJAX.prototype.acts.RequestFile,
+	cr.plugins_.AJAX.prototype.acts.Request,
 	cr.plugins_.Text.prototype.acts.SetText,
 	cr.plugins_.AJAX.prototype.cnds.OnComplete,
 	cr.plugins_.Rex_CSV2Dictionary.prototype.acts.CSV2Dictionary,
@@ -17811,6 +17811,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.RegexTest,
 	cr.plugins_.Dictionary.prototype.exps.CurrentValue,
 	cr.system_object.prototype.exps.newline,
-	cr.system_object.prototype.cnds.CompareVar
+	cr.system_object.prototype.cnds.CompareVar,
+	cr.system_object.prototype.exps.replace
 ];};
-
