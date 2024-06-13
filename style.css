@@ -1,0 +1,18 @@
+textarea, input {
+    color: rgb(255, 208, 0);
+    background-color: rgba(21, 20, 20, 0.889);
+    text-align: center;
+    border-radius: 10px;
+    
+}
+textarea{
+    font-size: 26px;
+}
+select{
+    color: rgb(255, 208, 0);
+    background-color: rgba(21, 20, 20, 0.889);
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 0 10px 0px 0px;
+    text-align: right;
+}

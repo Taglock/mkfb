@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1718282829,
+	"version": 1718307322,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,7 +12,6 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"Новая таблица - Лист1 (2).csv",
-		"Новая таблица - Лист1 (3).csv"
+		"style.css"
 	]
 }
